@@ -1,0 +1,6 @@
+K:\Workspace\workspace_csharp\Encapsulamento\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.exe.config
+K:\Workspace\workspace_csharp\Encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.csprojResolveAssemblyReference.cache
+K:\Workspace\workspace_csharp\Encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.Form1.resources
+K:\Workspace\workspace_csharp\Encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.Properties.Resources.resources
+K:\Workspace\workspace_csharp\Encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.csproj.GenerateResource.Cache
+K:\Work\Workspace\workspace_csharp\Encapsulamento\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.exe.config

@@ -1,0 +1,15 @@
+K:\Meus códigos\CSharp\CSharp\ConsoleSharp\bin\Debug\ConsoleSharp.exe.config
+K:\Meus códigos\CSharp\CSharp\ConsoleSharp\bin\Debug\ConsoleSharp.exe
+K:\Meus códigos\CSharp\CSharp\ConsoleSharp\bin\Debug\ConsoleSharp.pdb
+K:\Meus códigos\CSharp\CSharp\ConsoleSharp\obj\Debug\ConsoleSharp.csprojResolveAssemblyReference.cache
+K:\Meus códigos\CSharp\CSharp\ConsoleSharp\obj\Debug\ConsoleSharp.exe
+K:\Meus códigos\CSharp\CSharp\ConsoleSharp\obj\Debug\ConsoleSharp.pdb
+K:\Workspace\workspace_csharp\CSharp\ConsoleSharp\bin\Debug\ConsoleSharp.exe.config
+K:\Workspace\workspace_csharp\CSharp\ConsoleSharp\obj\Debug\ConsoleSharp.exe
+K:\Workspace\workspace_csharp\CSharp\ConsoleSharp\obj\Debug\ConsoleSharp.pdb
+K:\Workspace\workspace_csharp\CSharp\ConsoleSharp\bin\Debug\ConsoleSharp.exe
+K:\Workspace\workspace_csharp\CSharp\ConsoleSharp\bin\Debug\ConsoleSharp.pdb
+K:\Workspace\workspace_csharp\CSharp\ConsoleSharp\obj\Debug\ConsoleSharp.csprojResolveAssemblyReference.cache
+K:\Work\Workspace\workspace_csharp\CSharp\ConsoleSharp\bin\Debug\ConsoleSharp.exe.config
+K:\Work\Workspace\workspace_csharp\CSharp\ConsoleSharp\obj\Debug\ConsoleSharp.exe
+K:\Work\Workspace\workspace_csharp\CSharp\ConsoleSharp\obj\Debug\ConsoleSharp.pdb
